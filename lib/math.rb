@@ -25,5 +25,5 @@ end
 
 def square_root(num)
   puts num ** 0.5
-  num1 ** 0.5
+  num ** 0.5
 end
